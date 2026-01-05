@@ -126,7 +126,7 @@ Add unit and integration tests (React Testing Library, Jest)
 
 📝 Author
 
-Oladapo Ajayi – GitHub oladapo86
+Oladapo Ajayi – GitHub @oladapo1986
 
 📄 License
 
