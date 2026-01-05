@@ -1,0 +1,24 @@
+my-ecommerce-app/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ app/
+│  │  └─ store.js
+│  ├─ features/
+│  │  ├─ products/
+│  │  │  └─ productsSlice.js
+│  │  └─ cart/
+│  │     └─ cartSlice.js
+│  ├─ pages/
+│  │  ├─ ProductList.jsx
+│  │  ├─ ProductDetails.jsx
+│  │  ├─ Cart.jsx
+│  │  └─ Checkout.jsx
+│  ├─ components/
+│  │  └─ (optional reusable components, e.g., Button.jsx, ProductCard.jsx)
+│  ├─ main.jsx
+│  ├─ App.jsx
+│  └─ index.css
+├─ package.json
+├─ package-lock.json
+└─ README.md

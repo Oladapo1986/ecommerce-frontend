@@ -1,0 +1,35 @@
+src/
+│
+├── app/
+│   └── store.js                    (Redux store configuration)
+│
+├── features/
+│   ├── products/
+│   │   └── productsSlice.js        (Product state management)
+│   └── cart/
+│       └── cartSlice.js            (Cart state management with actions)
+│
+├── components/
+│   ├── CategoryFilter.jsx
+│   ├── Layout.jsx
+│   ├── Navbar.jsx
+│   ├── ProductCard.jsx             (Reusable product card component)
+│   └── SkeletonGrid.jsx
+│
+├── pages/
+│   ├── ProductList.jsx             (Home - all products grid)
+│   ├── ProductDetails.jsx          (Product detail page with /:id route)
+│   ├── ProductDetails.module.css
+│   ├── Cart.jsx                    (Shopping cart management)
+│   └── Checkout.jsx                (Checkout & payment flow)
+│
+├── styles/
+│   └── theme.js                    (Styled-components theme)
+│
+├── utils/
+│   └── localStorage.js             (Cart persistence utilities)
+│
+├── App.jsx                         (Main app component with routing)
+├── App.css
+├── index.css                       (Global styles)
+└── main.jsx                        (Entry point)
