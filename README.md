@@ -6,13 +6,13 @@ A **production-ready e-commerce frontend** built with React, Redux Toolkit, Reac
 
 ---
 
-## 🌐 Live Preview
+## Live Preview
 
 _(Optional: Add your deployed URL if hosted on Netlify, Vercel, or GitHub Pages)_
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** (Functional Components, Hooks)
 - **Redux Toolkit** (Global state management, slices, async thunks)
@@ -64,7 +64,7 @@ ecommerce-frontend/
 
 ---
 
-## ✨ Features
+## Features
 
 - **Product Listing** – Grid display of all products from Fake Store API with add-to-cart buttons
 - **Product Details** – Dedicated page for viewing product information with styled layout
