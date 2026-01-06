@@ -23,7 +23,7 @@ _(Optional: Add your deployed URL if hosted on Netlify, Vercel, or GitHub Pages)
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 ecommerce-frontend/
@@ -124,7 +124,7 @@ Integrate backend for orders and inventory management
 
 Add unit and integration tests (React Testing Library, Jest)
 
-📝 Author
+ Author
 
 Oladapo Ajayi – GitHub @oladapo1986
 
